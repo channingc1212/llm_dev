@@ -1,3 +1,4 @@
+# https://docs.streamlit.io/knowledge-base/tutorials/llm-quickstart
 # import the necessary Python libraries
 import streamlit as st
 from langchain.llms import OpenAI
